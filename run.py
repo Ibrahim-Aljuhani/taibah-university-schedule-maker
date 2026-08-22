@@ -1,8 +1,4 @@
 """
-Taibah University Schedule Finder
-Parses the university subjects table HTML and finds conflict-free
-timetable combinations with a target number of off days per week.
-
 Usage:
     python run.py [path/to/SubjectsTable.html]
 
