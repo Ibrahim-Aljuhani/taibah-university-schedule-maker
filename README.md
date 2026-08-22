@@ -1,4 +1,4 @@
-# taibah-schedule-maker
+# taibah-university-schedule-maker
 
 Parses your university's subjects HTML table and finds every conflict-free
 timetable combination that gives you a target number of off days per week.
