@@ -12,6 +12,9 @@ timetable combination that gives you a target number of off days per week.
 
 Dependencies (`flask`, `beautifulsoup4`)
 
+```
+pip install flask beautifulsoup4
+```
 ---
 
 ## Setup
